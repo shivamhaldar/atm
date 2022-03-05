@@ -1,8 +1,11 @@
 # ATM Basic Working :
 
 Written in C++
+
 Basics Input are 1 & 0
+
 Password for entry one time is !123
+
 You can change the pin in the Source Code.
 
 ## Preview :
